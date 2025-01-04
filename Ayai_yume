@@ -1,0 +1,6 @@
+Config = {
+namescript = "Ayai_Yume",
+logoscript=''87130122845985'',
+tacgia = ''Thong''
+{
+loedstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptoffree.lua"))
